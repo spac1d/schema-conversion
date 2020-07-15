@@ -1,5 +1,5 @@
 [package]
-name = "conversions"
+name = "schema-conversion"
 version = "0.1.0"
 authors = ["spacid"]
 edition = "2018"
